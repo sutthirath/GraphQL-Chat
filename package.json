@@ -1,0 +1,17 @@
+{
+  "name": "graphql-chat",
+  "version": "1.0.0",
+  "description": "practice app for graphql and apollo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sutthirath sean vilaysane",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^14.4.2",
+    "supervisor": "^0.12.0"
+  }
+}
